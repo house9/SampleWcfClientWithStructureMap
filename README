@@ -1,0 +1,16 @@
+SampleWcfClientWithStructureMap
+
+basic implementation - getting WCF client object from StructureMap (Dependency Injection / Inversion of Control tool for .Net)
+http://structuremap.net/structuremap/index.html
+
+Resources
+
+	- http://groups.google.com/group/structuremap-users
+	- http://groups.google.com/group/structuremap-users/browse_thread/thread/d02aee1a8497764b/890dd4fde6af0c5d?hl=en&lnk=gst&q=WCF+&pli=1 (see entry by Jimmy Bogard)
+	- http://www.lostechies.com/blogs/jimmy_bogard/archive/2008/07/29/integrating-structuremap-with-wcf.aspx
+	- http://www.codeproject.com/KB/WCF/CodeProxyGeneration.aspx
+
+
+	
+	
+
